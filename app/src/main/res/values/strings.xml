@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CityRecycleView</string>
+
+    <string-array name="city_name">
+        <item>Kota Semarang</item>
+        <item>Kota Jakarta</item>
+        <item>Kota Bandung</item>
+        <item>Kota Surabaya</item>
+        <item>Kota Yogyakarta</item>
+        <item>Kota Solo</item>
+        <item>Kota Malang</item>
+        <item>Kota Padang</item>
+        <item>Kota Palembang</item>
+        <item>Kota Medan</item>
+        <item>Kota Bogor</item>
+    </string-array>
+
+    <array name="city_image">
+        <item>@drawable/semarang</item>
+        <item>@drawable/jakarta</item>
+        <item>@drawable/bandung</item>
+        <item>@drawable/surabaya</item>
+        <item>@drawable/yogyakarta</item>
+        <item>@drawable/solo</item>
+        <item>@drawable/malang</item>
+        <item>@drawable/padang</item>
+        <item>@drawable/palembang</item>
+        <item>@drawable/medan</item>
+        <item>@drawable/bogor</item>
+    </array>
+</resources>
